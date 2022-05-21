@@ -1,0 +1,33 @@
+i
+
+
+Dear Shopify manager,
+
+I'm excited about drawing careful insights from big data, and helping small global businesses get big global sales is an exciting goal.
+
+I've been practicing a full stack of development:
+- getting data by webscraping or ETL with SQL
+- data-cleaning and EDA with Python
+- visualization with matplotlib or other diverse libraries
+- data-modeling and data-pipelines for production
+- delivering a front-end with html, css, and streamlit
+- version control throughout with git/github
+- working from local, server-hosted, and shared ipython notebooks
+
+I also enjoy digging into math and I'm not scared to fill a page with algebra and calculus if it makes a process better, faster, or delivers insight.
+
+Put me on one or any of any of these functions with any programming language or software, and I'll be a hard worker, humble learner, and team player.
+
+I'm re-entering the workforce after a long hiatus as a full-time parent, so I have a lot of fresh focus and energy.
+
+Warm Regards,
+Steven Bhardwaj
+
+
+I'd like to sell linux laptops. I can pick out machines whose hardware has well-supported drivers, and nowadays after that, everything just works. I'd like to see Linux get more consumer market share.
+
+
+For the last 10 years I've been supporting a service project in Rwanda helping kids learn to read at younger ages!  https://childteachingchild.bhrdwj.net 
+
+
+
